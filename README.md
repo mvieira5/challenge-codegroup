@@ -19,15 +19,15 @@
 
 1. Inicializar o Terraform:
 
-      ```terraform init```
+       terraform init
 
 2. Visualizar o plano de execução:
 
-      ```terraform plan```
+       terraform plan
 
 3. Aplicar as configurações:
 
-      ```terraform apply```
+       terraform apply
 
 **Verificar os Outputs:**
 Após a execução, os seguintes outputs serão exibidos:
@@ -40,7 +40,7 @@ Após a execução, os seguintes outputs serão exibidos:
 
 1. Para remover os recursos provisionados:
    
-   ```terraform destroy```
+       terraform destroy
 
 
 ## Infracost
