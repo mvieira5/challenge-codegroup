@@ -1,0 +1,5 @@
+.terraform
+*.tfstate*
+terraform/ec2/*.tfvars
+terraform/rds/*.tfvars
+terraform/vpc/*.tfvars
